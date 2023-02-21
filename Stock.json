@@ -1,0 +1,19 @@
+{
+  "stocks": [
+    {
+      "Stock": "TATA",
+      "Shares": 2,
+      "Price": 150
+    },
+    {
+      "Stock": "SAMSUNG",
+      "Shares": 2,
+      "Price": 500
+    },
+    {
+      "Stock": "LIC",
+      "Shares": 2,
+      "Price": 180
+    }
+  ]
+}
